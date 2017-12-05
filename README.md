@@ -1,2 +1,5 @@
 # Tribute-Page
-Thales
+
+Thales - the first recorded Philosopher
+
+https://learicist.github.io/Tribute-Page/
